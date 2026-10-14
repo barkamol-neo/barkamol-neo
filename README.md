@@ -14,7 +14,7 @@ I build small projects, practice every day and I'm open to learn and collaborate
 
 ## 🧠 Python Skills:
 - Variables, loops, functions
-- OOP (classes, objects, inheritance)
+- OOP (classes, objects)
 - Git & GitHub
 
 ## 🎯 Goals:
